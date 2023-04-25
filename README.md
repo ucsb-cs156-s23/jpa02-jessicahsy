@@ -1,9 +1,9 @@
 # jpa02-jessicahsy
 
-Repo: https://ucsb-cs156-s23/jpa02-jessicahsy
+Repo: https://github.com/ucsb-cs156-s23/jpa02-jessicahsy
 
 
-Deployed at: https://jpa02-jessicahsy.herokuapp.com
+Deployed at: https://jpa02h-jessicahsy.herokuapp.com
 
 
 # About this repo
